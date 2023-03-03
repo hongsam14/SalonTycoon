@@ -11,7 +11,8 @@ Obj/
 UnityGenerated/
  
 Library/
- 
+
+/[Uu]ser[Ss]ettings/
  
  
 # ===================================== #
@@ -39,7 +40,8 @@ ExportedObj/
 *.unityproj
  
 *.booproj
- 
+
+.vsconfig
  
  
 # ============ #
@@ -67,5 +69,5 @@ Thumbs.db
 GraphicsSettings.asset
  
 ProjectSettings.asset
- 
+
 ProjectVersion.txt
